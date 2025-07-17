@@ -1,4 +1,4 @@
-# <div align="center">🚀 Shaurya Tayal | Full Stack Developer & AI Enthusiast</div>
+# <div align="center">🚀 Shaurya Tayal | Software Developer & ML Enthusiast</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Founder+%26+COO+at+ECHO;AI%2FML+Developer;Blockchain+Enthusiast;Problem+Solver;Always+Learning!&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22&pause=1000" />
