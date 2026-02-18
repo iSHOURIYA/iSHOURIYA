@@ -23,7 +23,6 @@ const shaurya = {
     education: "B.Tech CSE @ Lovely Professional University",
     currentCGPA: 7.03,
     role: "Founder & COO @ ECHO Tech Organization",
-    experience: "Support Intern @ Dell Technologies",
     
     passions: [
         "Building innovative solutions",
