@@ -1,4 +1,4 @@
-# <div align="center">🚀 Shaurya Tayal | Software Developer & ML Enthusiast</div>
+# <div align="center">🚀 Shouriya Tayal | Software Developer & ML Enthusiast</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Founder+%26+COO+at+ECHO;AI%2FML+Developer;Blockchain+Enthusiast;Problem+Solver;Always+Learning!&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22&pause=1000" />
@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya_wizard)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shaurya_wizard)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishouriya)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shouriyatayl1234@gmail.com)
   [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918218109345)
@@ -18,7 +18,7 @@
 ## 🎯 About Me
 
 ```typescript
-const shaurya = {
+const shouriya = {
     location: "Phagwara, Punjab, India 🇮🇳",
     education: "B.Tech CSE @ Lovely Professional University",
     currentCGPA: 7.03,
@@ -150,7 +150,7 @@ const shaurya = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishouriya&theme=radical&hide_border=true&background=0D1117" alt="Shaurya's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishouriya&theme=radical&hide_border=true&background=0D1117" alt="Shouriya's GitHub streak"/>
 </div>
 
 ---
