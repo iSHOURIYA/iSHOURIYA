@@ -1,218 +1,111 @@
-# <div align="center">🚀 Shouriya Tayal | Software Developer & ML Enthusiast</div>
+# Hi, I'm Shouriya Tayal
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Founder+%26+COO+at+ECHO;AI%2FML+Developer;Blockchain+Enthusiast;Problem+Solver;Always+Learning!&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22&pause=1000" />
-</div>
+Software Developer with experience in backend development, AI/ML systems, and scalable API platforms. Currently pursuing B.Tech in Computer Science at Lovely Professional University and actively seeking Software Development Engineer, Backend Developer, and AI/ML Engineer opportunities.
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/shaurya-wizard](https://www.linkedin.com/in/shaurya-wizard/))
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishouriya)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shouriyatayl1234@gmail.com)
-  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918218109345)
+## Connect
 
-</div>
+* LinkedIn: https://linkedin.com/in/shaurya-wizard
+* GitHub: https://github.com/iSHOURIYA
+* Email: [shouriyatayal1234@gmail.com](mailto:shouriyatayal1234@gmail.com)
 
 ---
 
-## 🎯 About Me
+## About Me
 
-```typescript
-const shouriya = {
-    location: "Phagwara, Punjab, India 🇮🇳",
-    education: "B.Tech CSE @ Lovely Professional University",
-    currentCGPA: 7.03,
-    role: "Founder & COO @ ECHO Tech Organization",
-    
-    passions: [
-        "Building innovative solutions",
-        "Blockchain technology",
-        "AI/ML applications",
-        "Mentoring developers"
-    ],
-    
-    currentFocus: "Developing fraud detection systems with blockchain integration",
-    availability: "Open to collaborations and opportunities"
-};
-```
+* B.Tech Computer Science Engineering, Lovely Professional University (CGPA: 7.39)
+* Data Science Intern at Infosys Springboard
+* Core Team Lead at ECHO Tech Organization
+* Interested in Backend Engineering, AI/ML, System Design, and Distributed Systems
+* Solved 300+ DSA problems across LeetCode, CodeChef, and GeeksforGeeks
 
 ---
 
-## 🛠️ Tech Arsenal
+## Technical Skills
 
-<div align="center">
+### Languages
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+Python • JavaScript • TypeScript • Java • C++ • SQL
 
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+### Backend & Frameworks
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MS Access](https://img.shields.io/badge/MS_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+Node.js • Express.js • Flask • REST APIs • JWT • RBAC • Redis
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HyperLedger](https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+### Databases
 
-</div>
+PostgreSQL • MySQL • Prisma ORM
+
+### DevOps & Tools
+
+Docker • Docker Compose • Git • GitHub • Postman • Nginx
+
+### AI/ML
+
+PyTorch • XGBoost • OpenCV • Feature Engineering
 
 ---
 
-## 🚀 Featured Projects
+## Experience
 
-<div align="center">
+### Data Science Intern | Infosys Springboard
 
-<table>
-<tr>
-<td width="50%">
+**Feb 2026 – Apr 2026**
 
-### 🔒 FraudNet.AI
-**Real-time Fraud Detection System**
-- 🎯 95% accuracy using ML algorithms
-- 🔗 Blockchain audit logs integration
-- 🛡️ Advanced security protocols
-- 💼 Python, ML, Blockchain
+* Developed DeepVision Crowd Monitor using CSRNet and PyTorch for real-time crowd density estimation.
+* Built preprocessing pipelines with OpenCV and deployed the backend using FastAPI.
+* Created a dashboard for image and video analysis with heatmap visualizations.
+* Containerized applications using Docker.
 
-</td>
-<td width="50%">
+### Core Team Lead | ECHO Tech Organization
 
-### 🗳️ Quanta Ballet
-**Decentralized Voting Platform**
-- 🔒 Tamper-proof voting system
-- 📱 User-friendly interface
-- 🌐 HyperLedger, Solidity, Flask
-- 🏛️ Democratic transparency
+**Aug 2023 – Present**
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏥 DocPat
-**Secure Medical Records Exchange**
-- 🔐 Smart contract integration
-- 📊 IPFS distributed storage
-- 🩺 Healthcare data security
-- 💻 Blockchain, Flask, IPFS
-
-</td>
-<td width="50%">
-
-### 🚦 Smart Traffic Management
-**AI-Driven Traffic Control**
-- 🤖 AI-powered optimization
-- 📡 Real-time sensor integration
-- 🚗 Reduces manual intervention
-- 🧠 Python, OpenAI, IoT
-
-</td>
-</tr>
-</table>
-
-</div>
+* Organized inter-university hackathons and technical events with 800+ participants.
+* Managed sponsorships, logistics, judging panels, and technical execution.
+* Mentored teams on backend development and AI/ML project architecture.
 
 ---
 
-## 🏆 Achievements & Recognition
+## Featured Projects
 
-<div align="center">
+### GenAff — AI API Gateway & Billing Platform
 
-| 🏅 Achievement | 🎯 Event | 📅 Year |
-|:---:|:---:|:---:|
-| 🥉 **3rd Position** | Smart India Inter-University Hackathon | 2023 |
-| 🥇 **1st Position** | Lego Playbotics League (State Level) | 2022 |
-| 🎪 **Organized** | Nationwide Hackathon (800+ participants) | 2023 |
-| 🏛️ **Mentored** | HackWithMAIT & HackHound Teams | 2023 |
+**Node.js • Express • PostgreSQL • Docker • Nginx**
 
-</div>
+* Unified AI APIs from OpenAI, Gemini, DeepSeek, and NVIDIA NIM.
+* Implemented wallet-based billing, API key management, and analytics.
+* Built authentication, RBAC, and rate limiting mechanisms.
+* Deployed on VPS using Docker and Nginx.
 
----
+### FraudNet.AI — Real-Time Fraud Detection Platform
 
-## 📊 GitHub Analytics
+**Python • XGBoost • Flask • Redis • MySQL**
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishouriya&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishouriya&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
-</div>
+* Developed an ML pipeline achieving 94.2% accuracy and 90.6% F1 score.
+* Delivered sub-200ms inference latency.
+* Built secure REST APIs and containerized services using Docker Compose.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishouriya&theme=radical&hide_border=true&background=0D1117" alt="Shouriya's GitHub streak"/>
-</div>
+### Quanta Ballot — Blockchain Voting System
 
----
+**Flask • Hyperledger Fabric • Solidity • PostgreSQL**
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🎯 Current Goals] --> B[🔐 Blockchain Innovation]
-    A --> C[🤖 AI/ML Advancement]
-    A --> D[🏢 ECHO Tech Growth]
-    A --> E[🎓 Academic Excellence]
-    
-    B --> F[Smart Contracts]
-    B --> G[DeFi Applications]
-    
-    C --> H[Fraud Detection]
-    C --> I[Predictive Analytics]
-    
-    D --> J[Team Leadership]
-    D --> K[Community Building]
-    
-    E --> L[CGPA Improvement]
-    E --> M[Research Projects]
-```
-
-</div>
+* Built a distributed voting platform using smart contracts.
+* Implemented deterministic single-use ballot validation.
+* Designed separate application, ledger, and metadata layers for reliability.
 
 ---
 
-## 📈 Activity Graph
+## Achievements
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishouriya&theme=react-dark&bg_color=0D1117&hide_border=true&line=36BCF7&point=FFFFFF&area=true" />
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-### 💡 Always open to:
-- 🚀 Innovative project collaborations
-- 🎯 Technical discussions
-- 🌟 Mentorship opportunities
-- 📈 Startup ventures
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
-
-</div>
+* 🏆 3rd Place — Smart India Inter-University Hackathon 2023
+* 💻 Solved 300+ DSA problems across competitive coding platforms
+* 🎯 Organized and managed technical events with 800+ participants
 
 ---
 
-<div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad."** - Cory House
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=ishouriya&style=for-the-badge&color=36BCF7)
-  
-</div>
+## Currently Exploring
+
+* System Design
+* Distributed Systems
+* LLM Applications
+* AI Infrastructure
+* Scalable Backend Architectures
